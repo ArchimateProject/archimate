@@ -1,0 +1,17 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BP vs BF"
+    id="94c135e1-147c-41ab-9a4a-cbe4b633f7d7">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="cb85efb4-b21b-4d3f-97d1-d2727e80fcae"
+      name="Company X"
+      textAlignment="1">
+    <bounds
+        x="228"
+        y="216"
+        width="744"
+        height="374"/>
+  </children>
+</archimate:ArchimateDiagramModel>
