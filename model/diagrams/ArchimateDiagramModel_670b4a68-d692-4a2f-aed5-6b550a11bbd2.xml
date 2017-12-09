@@ -28,8 +28,8 @@
     <bounds
         x="492"
         y="312"
-        width="120"
-        height="55"/>
+        width="121"
+        height="61"/>
     <archimateElement
         xsi:type="archimate:ApplicationFunction"
         href="ApplicationFunction_dfd68789-9257-4f85-868a-1fd67949e32c.xml#dfd68789-9257-4f85-868a-1fd67949e32c"/>
@@ -58,8 +58,8 @@
     <bounds
         x="720"
         y="312"
-        width="120"
-        height="55"/>
+        width="121"
+        height="61"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_aada0d4b-283c-4a92-b9d0-220575b6ef02.xml#aada0d4b-283c-4a92-b9d0-220575b6ef02"/>
@@ -71,8 +71,8 @@
     <bounds
         x="240"
         y="312"
-        width="120"
-        height="55"/>
+        width="121"
+        height="61"/>
     <archimateElement
         xsi:type="archimate:DataObject"
         href="DataObject_e70ab2d1-c0b0-4da5-beb4-491504ac6417.xml#e70ab2d1-c0b0-4da5-beb4-491504ac6417"/>
@@ -93,8 +93,8 @@
     <bounds
         x="720"
         y="192"
-        width="120"
-        height="55"/>
+        width="121"
+        height="61"/>
     <archimateElement
         xsi:type="archimate:ApplicationInterface"
         href="ApplicationInterface_2a988ae2-56ac-4f71-a293-a9dd4b8c58e6.xml#2a988ae2-56ac-4f71-a293-a9dd4b8c58e6"/>
@@ -106,8 +106,8 @@
     <bounds
         x="492"
         y="192"
-        width="120"
-        height="55"/>
+        width="121"
+        height="61"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_e08afb29-eb9f-493e-8336-1287ecec445f.xml#e08afb29-eb9f-493e-8336-1287ecec445f"/>
