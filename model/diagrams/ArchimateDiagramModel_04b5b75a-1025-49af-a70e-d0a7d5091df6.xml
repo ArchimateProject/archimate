@@ -400,9 +400,9 @@
           href="TriggeringRelationship_bb3bddda-9c5e-422e-8072-725de1cef775.xml#bb3bddda-9c5e-422e-8072-725de1cef775"/>
     </sourceConnections>
     <bounds
-        x="-48"
+        x="-60"
         y="492"
-        width="121"
+        width="157"
         height="61"/>
     <archimateElement
         xsi:type="archimate:ApplicationEvent"
