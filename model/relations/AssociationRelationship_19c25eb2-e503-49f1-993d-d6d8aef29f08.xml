@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="reducible (on analysis) to"
+    id="19c25eb2-e503-49f1-993d-d6d8aef29f08">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_9a9f0a9c-1a2f-4d84-8c9c-359b045489a3.xml#9a9f0a9c-1a2f-4d84-8c9c-359b045489a3"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_388c3068-74d7-4765-a521-a88b7abb48ca.xml#388c3068-74d7-4765-a521-a88b7abb48ca"/>
+</archimate:AssociationRelationship>
